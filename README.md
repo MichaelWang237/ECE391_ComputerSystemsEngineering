@@ -1,4 +1,4 @@
-# ECE391_ComputerSystemsEngineering - FALL 2022
+# ECE391 - Computer Systems Engineering - FALL 2022
 
  This repo contains work I've done for ECE 391 -- a class that focuses on the role of system software in computing. To this end, we explore operating systems with
  three main Machine Problems (MPs), which will be uploaded as they are completed.
