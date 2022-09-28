@@ -4,7 +4,7 @@
  three main Machine Problems (MPs), which will be uploaded as they are completed.
 
 # 1 - Missile Command 
-Wrote x86 assembly to complete a slightly modified version of missile command, the ATARI game released in the 1980s. To see my work, go to mp1.S
+Wrote x86 assembly to complete a slightly modified version of Missile Command, the ATARI game released in the 1980s. To see my work, go to mp1.S
 # 2 - Tux 
 Learning about VGA ModeX to finish an adventure game by adding various functionality, such as an on-screen status bar and support for a custom "Tux" controller
 developed specifically for this MP. Coming Soon!
